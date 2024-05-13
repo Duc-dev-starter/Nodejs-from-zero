@@ -1,0 +1,1 @@
+//phục vụ cho server side rendering
